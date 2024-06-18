@@ -1,0 +1,11 @@
+@media (max-width: 576px){
+	.letraRojo{
+		background-color: red !important;
+	}
+	
+}
+@media (max-width: 576px){
+	.altura{
+		height:300px;
+	}
+}
